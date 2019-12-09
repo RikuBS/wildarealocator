@@ -1,0 +1,38 @@
+<wildarea>
+	<Location1>
+		<sunny>
+			
+			<bushes>
+				<pokemon num="012" game="0">Orbeetle</pokemon>
+				<pokemon num="023" game="0">Corviknight</pokemon>
+				<pokemon num="033" game="0">Obstagoon</pokemon>
+				<pokemon num="089" game="0">Golurk</pokemon>
+				<pokemon num="095" game="0">Bewear</pokemon>
+				<pokemon num="278" game="0">Beheeyem</pokemon>
+				<pokemon num="282" game="2">Braviary</pokemon>
+				<pokemon num="284" game="2">Mandibuzz</pokemon>
+				<pokemon num="297" game="0">Sigilyph</pokemon>
+				<pokemon num="373" game="0">Ditto</pokemon>
+			</bushes>
+			
+			<water>
+				<pokemon num="181" game="0">Barraskewda</pokemon>
+				<pokemon num="354" game="0">Mantyke</pokemon>
+				<pokemon num="355" game="0">Mantine</pokemon>
+			</water>
+			
+			<fishing>
+				<pokemon num="145" game="0">Gyarados</pokemon>
+				<pokemon num="181" game="0">Barraskewda</pokemon>
+				<pokemon num="221" game="0">Lanturn</pokemon>
+				<pokemon num="304" game="0">Qwilfish</pokemon>
+			</fishing>
+			
+			<trees>
+				<pokemon num="025" game="0">Greedent</pokemon>
+				<pokemon num="128" game="0">Cherubi</pokemon>
+			</trees>
+			
+		</sunny>
+	</Location1>
+</wildarea>
