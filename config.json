@@ -26,7 +26,8 @@
 		{ "id": "cordova-plugin-inappbrowser", "version": null },
 		{ "id": "cordova-plugin-statusbar", "version": null },
 		{ "id": "cordova-plugin-whitelist", "version": null },
-		{ "id": "cordova-plugin-wkwebview-engine", "version": null }
+		{ "id": "cordova-plugin-wkwebview-engine", "version": null },
+		{ "id": "org.apache.cordova.inappbrowser", "version": null }
 	],
 	"android": {
 		"min": 21,

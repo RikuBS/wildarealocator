@@ -28,6 +28,7 @@
 	<plugin name="cordova-plugin-statusbar" />
 	<plugin name="cordova-plugin-whitelist" />
 	<plugin name="cordova-plugin-wkwebview-engine" />
+	<plugin name="org.apache.cordova.inappbrowser" />
 
 
 	<engine name="ios" />
